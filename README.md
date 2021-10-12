@@ -1,4 +1,4 @@
-## PNEUMONIA-DETECTION-USING-CHEST-XRAY 
+## PNEUMONIA-DETECTION-USING-CHEST-XRAY (Kaggle)
 [Download Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 ### Architecture 
